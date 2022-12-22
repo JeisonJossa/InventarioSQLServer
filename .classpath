@@ -6,6 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="F:/Programacion/Java/Proyectos_JAVA/PF/lib/itext5-itextpdf-5.5.12.jar"/>
+	<classpathentry kind="lib" path="/Mod_Inventario_Properties/lib/itext5-itextpdf-5.5.12.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
